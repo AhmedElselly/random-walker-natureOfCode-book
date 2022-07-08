@@ -1,0 +1,12 @@
+{
+  "name": "walker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "walker.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
